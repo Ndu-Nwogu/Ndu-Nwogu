@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ndu-Nwogu
-- 👀 I’m interested in ... Programming
-- 🌱 I’m currently learning ...C++
+- 👋 Hi, I’m @Hemdinachi
+- 👀 I’m interested in ... Software Engineering 
+- 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... ndunwoguhemdinachi@gmail.com
 
